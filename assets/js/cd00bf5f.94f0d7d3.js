@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[1876],{73789:function(a){a.exports=JSON.parse('{"label":"github","permalink":"/examenEbau/tags/github","allTagsPath":"/examenEbau/tags","count":2}')}}]);

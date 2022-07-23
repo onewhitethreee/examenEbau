@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[7473],{81142:function(e){e.exports=JSON.parse('{"label":"serverless","permalink":"/examenEbau/tags/serverless","allTagsPath":"/examenEbau/tags","count":1}')}}]);

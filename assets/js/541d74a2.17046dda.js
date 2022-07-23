@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[2528],{71277:function(e){e.exports=JSON.parse('{"label":"vercel","permalink":"/examenEbau/tags/vercel","allTagsPath":"/examenEbau/tags","count":3}')}}]);
