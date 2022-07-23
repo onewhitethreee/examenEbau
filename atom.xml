@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onewhitethreee.github.io/examenEbau/</id>
-    <title>愧怍</title>
+    <title/>
     <updated>2022-07-20T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onewhitethreee.github.io/examenEbau/"/>
     <subtitle>EXAMEN EBAU Blog</subtitle>
     <icon>https://onewhitethreee.github.io/examenEbau/img/favicon.ico</icon>
-    <rights>Copyright © 2022 愧怍 Built with Docusaurus.&lt;p&gt;&lt;a href="http://beian.miit.gov.cn/" class="footer_lin"&gt; &lt;/a&gt;&lt;/p&gt;</rights>
+    <rights>Copyright © 2022 examenEbau Built with Docusaurus.</rights>
     <entry>
         <title type="html"><![CDATA[基于Nuxt3的API接口服务网站]]></title>
         <id>use-nuxt3-build-api-server</id>

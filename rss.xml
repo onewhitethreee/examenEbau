@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>愧怍</title>
+        <title></title>
         <link>https://onewhitethreee.github.io/examenEbau/</link>
         <description>EXAMEN EBAU Blog</description>
         <lastBuildDate>Wed, 20 Jul 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
-        <copyright>Copyright © 2022 愧怍 Built with Docusaurus.&lt;p&gt;&lt;a href="http://beian.miit.gov.cn/" class="footer_lin"&gt; &lt;/a&gt;&lt;/p&gt;</copyright>
+        <copyright>Copyright © 2022 examenEbau Built with Docusaurus.</copyright>
         <item>
             <title><![CDATA[基于Nuxt3的API接口服务网站]]></title>
             <link>https://onewhitethreee.github.io/examenEbau/use-nuxt3-build-api-server</link>
