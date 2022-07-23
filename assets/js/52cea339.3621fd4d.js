@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[5760],{36981:function(a){a.exports=JSON.parse('{"label":"axios","permalink":"/examenEbau/tags/axios","allTagsPath":"/examenEbau/tags","count":2}')}}]);

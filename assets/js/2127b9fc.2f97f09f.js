@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[2682],{31289:function(a){a.exports=JSON.parse('{"label":"easy-language","permalink":"/examenEbau/tags/easy-language","allTagsPath":"/examenEbau/tags","count":1}')}}]);

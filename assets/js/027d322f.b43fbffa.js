@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[6525],{15413:function(e){e.exports=JSON.parse('{"permalink":"/examenEbau/tags/\u5e74\u7ec8\u603b\u7ed3","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

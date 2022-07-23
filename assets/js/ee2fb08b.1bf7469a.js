@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[3650],{88726:function(e){e.exports=JSON.parse('{"label":"vscode","permalink":"/examenEbau/tags/vscode","allTagsPath":"/examenEbau/tags","count":1}')}}]);

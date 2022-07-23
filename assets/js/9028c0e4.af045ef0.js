@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[5714],{2706:function(a){a.exports=JSON.parse('{"label":"gitalk","permalink":"/examenEbau/tags/gitalk","allTagsPath":"/examenEbau/tags","count":1}')}}]);

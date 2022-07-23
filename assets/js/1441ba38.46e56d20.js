@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[3597],{77690:function(e){e.exports=JSON.parse('{"label":"fontend","permalink":"/tags/fontend","allTagsPath":"/tags","count":1}')}}]);

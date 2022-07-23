@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[596],{73635:function(e){e.exports=JSON.parse('{"label":"reverse","permalink":"/examenEbau/tags/reverse","allTagsPath":"/examenEbau/tags","count":2}')}}]);
