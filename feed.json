@@ -12,8 +12,8 @@
             "summary": "挺早之前就想写个 api 接口服务，封装下自己收集的一些 api 接口，以便调用，正好最近在接触 SSR 框架，所以就使用 Nuxt3 来编写该项目。",
             "date_modified": "2022-07-20T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "nuxt",
@@ -30,8 +30,8 @@
             "summary": "官方文档 Getting Started | Next.js (nextjs.org)",
             "date_modified": "2022-07-13T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "next",
@@ -48,8 +48,8 @@
             "summary": "自从使用过 VSCode 后就再也离不开 VSCode，其轻量的代码编辑器与诸多插件让多数开发者爱不释手。同样我也不例外，一年前的我甚至还特意买本《Visual Studio Code 权威指南》的书籍，来更进一步了解与使用。",
             "date_modified": "2022-07-11T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "vscode",
@@ -66,8 +66,8 @@
             "summary": "当我使用笔记本的时候，每次移动光标，都要大费周章，同时由于笔记本的缘故，导致键入Home与End都需要搭配Fn功能键来实现。所以我希望在任何情况下（敲代码，写文章）都可以将某些组合键绑定为上下左右键，在代码编辑器上有键盘映射可以设置，但脱离代码编辑器就不起作用了，在window下有个神器 AutoHotkey 可以实现我想要的功能。",
             "date_modified": "2022-07-08T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "工具",
@@ -82,8 +82,8 @@
             "summary": "考试也结束了，这学期的任务也完成了，按照往常我通常就定制暑假的学习清单，将要学习的技术栈规划出来，借此来督促自己学习，这次也不例外。",
             "date_modified": "2022-07-07T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "随笔",
@@ -98,8 +98,8 @@
             "summary": "记录一次前端面试过程",
             "date_modified": "2022-06-25T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "随笔",
@@ -115,8 +115,8 @@
             "summary": "临近考试周，又要开始准备复习，顺带总结下自己平常的学习方式与一些感慨。",
             "date_modified": "2022-06-10T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "随笔",
@@ -131,8 +131,8 @@
             "summary": "Vercel 除了能部署静态站点外，还能运行 Serverless Functions，也是本次的主题",
             "date_modified": "2022-05-12T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "vercel",
@@ -147,8 +147,8 @@
             "summary": "如果有写过项目的经历，就免不了将代码上传到服务器上，安装依赖，然后输入启动命令的步骤。但是有的项目往往需要经常性的改动，如果还是照着上面的方式进行部署的话。先不说这样操作的效率，操作个几次就想罢工了。并且上面这样操作的往往容易误操作。而 Github Actions 正是该问题的良药。",
             "date_modified": "2022-05-11T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "github",
@@ -163,8 +163,8 @@
             "summary": "image-20220511170700075",
             "date_modified": "2022-05-11T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "vercel",
@@ -179,8 +179,8 @@
             "summary": "当时初学 Web 开发的时候，除了写一个网页博客外，第二个选择无非就是一个后台管理系统，可以应用于多种需要数据管理类项目中。",
             "date_modified": "2022-05-08T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "project",
@@ -197,8 +197,8 @@
             "summary": "虽然知道开源有个许可证 LICENSE，但一直没给自己写的一些开源项目选择开源许可证。于是准备系统了解一下开源许可证，以及如何为 Github 项目添加 LICENSE。",
             "date_modified": "2022-05-05T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "open-source",
@@ -213,8 +213,8 @@
             "summary": "前段时间因为笔记本不在身边，导致一些本地磁盘代码数据没法直接同步过来。于是就准备把这些年写的代码重新整理一下，谈谈常用备份手段以及我的最佳手段",
             "date_modified": "2022-05-02T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "随笔",
@@ -229,8 +229,8 @@
             "summary": "image-20220414235645607",
             "date_modified": "2022-04-15T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "git",
@@ -245,8 +245,8 @@
             "summary": "uniapp",
             "date_modified": "2022-03-27T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "vue",
@@ -263,8 +263,8 @@
             "summary": "在短时间内有一个需求，原项目代码是 js，而我手里头的项目是 ts 的，需要将其合并。",
             "date_modified": "2022-03-24T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "javascript",
@@ -279,8 +279,8 @@
             "summary": "image-20220316204205165",
             "date_modified": "2022-03-17T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "electron",
@@ -296,8 +296,8 @@
             "summary": "先放一张 gif 图展示下效果",
             "date_modified": "2022-03-16T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "http"
@@ -311,8 +311,8 @@
             "summary": "之前学习的时候，都会看到网络上一些在线工具的网站，比如获取时间戳，编码转化，正则表达式等等，这些对于一些初学者在电脑上没有安装相对应的工具，往往就会百度搜索在线工具，然后就能实现自己所要完成的目的。",
             "date_modified": "2022-03-16T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "project",
@@ -328,8 +328,8 @@
             "summary": "在学习安卓逆向的时候，遇到一个 APP，服务端检测请求的 SSL 证书，需要提交 SSL 证书上去才能正常发送请求。而在开启抓包和协议复现的时候，请求是能正常发出去，但是服务器会返回 400 错误。于是便有了这篇文章来记录下。",
             "date_modified": "2022-02-17T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "http",
@@ -344,8 +344,8 @@
             "summary": "故事起因",
             "date_modified": "2022-01-25T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "随笔",
@@ -361,8 +361,8 @@
             "summary": "在我编写 js 代码中，关于处理二进制数据了解甚少，好像都是用数组表示，但是成员又很模糊。尤其是在遇到一些 http 的 post 请求或 websocket，发送二进制数据（字节）时，还有一些算法的翻译，数据的转化，协议的复现，都需要不断的从网络上查阅，并未系统的从文档教程中入手。于是写这篇的目的就是为了加固对二进制数据的理解，以及 JavaScript 中如何操作二进制数据的。",
             "date_modified": "2022-01-24T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "javascript"
@@ -376,8 +376,8 @@
             "summary": "之前使用 vuepress 的时候，使用的评论系统是Valine，可是匿名用户也能直接评论，虽说会过滤垃圾信息，但是后台查看评论与通知总感觉没有那么实在。",
             "date_modified": "2022-01-22T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "blog",
@@ -392,8 +392,8 @@
             "summary": "全局样式",
             "date_modified": "2022-01-14T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "react",
@@ -408,8 +408,8 @@
             "summary": "步骤一",
             "date_modified": "2022-01-10T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "java",
@@ -424,8 +424,8 @@
             "summary": "pnpm 文档",
             "date_modified": "2022-01-08T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "node",
@@ -440,8 +440,8 @@
             "summary": "演示代码地址：kuizuo/spring-boot-demo (github.com)",
             "date_modified": "2022-01-08T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "java",
@@ -457,8 +457,8 @@
             "summary": "其实我很早就想写这个话题了。因为我是一个熬夜大户，经常动不动就是 3,4 点睡觉，甚至有时候是日夜颠倒的作息习惯，如同过美国时间般。但与常人想法不同，我巴不得在保持这种作息状态。我会分以下几点来阐述我这一不正常的行为，相对于我而言的好点。",
             "date_modified": "2022-01-03T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "随笔",
@@ -473,8 +473,8 @@
             "summary": "基于 Babel 对 JS 代码进行混淆与还原操作的网站 JS 代码混淆与还原 (kuizuo.cn)",
             "date_modified": "2021-12-25T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "javascript",
@@ -491,8 +491,8 @@
             "summary": "AST 在线解析 AST explorer",
             "date_modified": "2021-12-21T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "javascript",
@@ -509,8 +509,8 @@
             "summary": "前言",
             "date_modified": "2021-11-22T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "javascript",
@@ -525,8 +525,8 @@
             "summary": "早闻 RPC（Remote Procedure Call）远程过程调用，这一词了，应该是在安卓逆向的时候听闻的，当时吹嘘的意思是这样的，通过另一个远端服务器来调用安卓代码中的函数，并将执行后的结果返回。比如有一个加密算法，如果要实现脱机（脱离当前环境）运行的话，就需要扣除相对应的代码，补齐对应的环境（模块，上下文，语言），然而要在补齐该加密算法的环境可不好实现，而通过 RPC 则可以免除扣代码，通过数据通信来达到远程调用的目的，听起来是挺牛逼的，实际上也确实挺骚的。这里我将以浏览器与本地搭建一个 websocket 来实现调用浏览器内的函数。",
             "date_modified": "2021-10-09T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "javascript",
@@ -542,8 +542,8 @@
             "summary": "事情背景",
             "date_modified": "2021-09-25T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "php",
@@ -558,8 +558,8 @@
             "summary": "之前学习爬虫的时候，如果是 HTML 的数据，通过 xpath 或是 css 选择器，就能很快的获取我们想要的数据，如果是 json 有没有类似 xpath 这种，能够直接根据条件定位数据，而不需要自行 json 解析在遍历获取。答案是有的，也就是 JSONPath。",
             "date_modified": "2021-09-20T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "javascript",
@@ -575,8 +575,8 @@
             "summary": "mini",
             "date_modified": "2021-09-18T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "chrome",
@@ -593,8 +593,8 @@
             "summary": "资源导航",
             "date_modified": "2021-09-09T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "project",
@@ -609,8 +609,8 @@
             "summary": "在接触一个开源项目的时候，项目的后端采用的是云开发的模式（云函数，云数据库等等），本人又没接触过云开发，于是便有了这篇文章。",
             "date_modified": "2021-09-06T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "develop"
@@ -624,8 +624,8 @@
             "summary": "需求",
             "date_modified": "2021-08-30T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "mongodb"
@@ -639,8 +639,8 @@
             "summary": "一个基于 Axios 封装 HTTP 类库",
             "date_modified": "2021-08-26T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "node",
@@ -656,8 +656,8 @@
             "summary": "博客地址: 愧怍 (kuizuo.cn)",
             "date_modified": "2021-08-20T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "blog",
@@ -673,8 +673,8 @@
             "summary": "场景复现",
             "date_modified": "2021-08-15T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "git",
@@ -689,8 +689,8 @@
             "summary": "需求",
             "date_modified": "2021-08-11T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "redis"
@@ -704,8 +704,8 @@
             "summary": "前后端数据交互，经常要和 Api 打交道，于是关于 Api 接口的设计，有必要好好写一写",
             "date_modified": "2021-08-06T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "随笔",
@@ -720,8 +720,8 @@
             "summary": "前言",
             "date_modified": "2021-08-04T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "git"
@@ -735,8 +735,8 @@
             "summary": "七牛云是国内鲜有的免费提供对象存储服务的一个云服务商，和腾讯云，阿里云一样，但这两者收费，而七牛云不收费，当然也不是绝对免费，对象存储免费空间 10g，每个月还有 10g 的 cdn 加速服务（多数人基本用不完），超出部分额外收费，此外 https 收费。",
             "date_modified": "2020-12-23T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "随笔",
@@ -751,8 +751,8 @@
             "summary": "如题，本人所购买的服务器，以及对象存储，CDN，和 SSL 都是腾讯云的。",
             "date_modified": "2020-12-15T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "cloud-services"
@@ -766,8 +766,8 @@
             "summary": "Content-type",
             "date_modified": "2020-12-12T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "http"
@@ -781,8 +781,8 @@
             "summary": "前言",
             "date_modified": "2020-12-10T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "node",
@@ -798,8 +798,8 @@
             "summary": "前言",
             "date_modified": "2020-11-17T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "server"
@@ -813,8 +813,8 @@
             "summary": "好歹自己学习易语言也快有一年了，也用易语言写了一些软件，特此记录一下以及对易语言的个人看法。",
             "date_modified": "2020-10-08T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "随笔",
@@ -829,8 +829,8 @@
             "summary": "前言",
             "date_modified": "2020-10-08T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "年终总结",
@@ -845,8 +845,8 @@
             "summary": "关于 HTTP 我不讲理论，只讲一下具体的用途。",
             "date_modified": "2020-09-29T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "http"
@@ -860,8 +860,8 @@
             "summary": "前言",
             "date_modified": "2020-09-28T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "chrome",
@@ -877,8 +877,8 @@
             "summary": "感谢 vuepress-theme-reco主题与一篇博客使用文章使用 vuepress 构建个人博客",
             "date_modified": "2020-08-30T00:00:00.000Z",
             "author": {
-                "name": "愧怍",
-                "url": "https://github.com/kuizuo"
+                "name": "examenEbau",
+                "url": "https://examenebau.com"
             },
             "tags": [
                 "blog",
