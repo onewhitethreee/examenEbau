@@ -4,115 +4,11 @@
         <title></title>
         <link>https://onewhitethreee.github.io/</link>
         <description>EXAMEN EBAU Blog</description>
-        <lastBuildDate>Sat, 06 Aug 2022 20:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
         <copyright>Copyright © 2022 examenEbau Built with Docusaurus.</copyright>
-        <item>
-            <title><![CDATA[技术视频栏目简介]]></title>
-            <link>https://onewhitethreee.github.io/ANDALUCÍA/</link>
-            <guid>/ANDALUCÍA/</guid>
-            <pubDate>Sat, 06 Aug 2022 20:14:42 GMT</pubDate>
-            <description><![CDATA[欢迎访问峰华前端工程师博客！这个页面是我发布的视频合集，包括嵌入的 B 站视频和文本，方便大家引用视频中的代码和链接等。]]></description>
-            <content:encoded><![CDATA[<p>欢迎访问峰华前端工程师博客！这个页面是我发布在 B 站的视频合集，包括嵌入的 B 站视频和文本，方便大家引用视频中的代码和链接等。善用导航中的搜索功能，快速找到自己想看的视频和文本！</p><p><strong>左侧的</strong>导航（移动端为<strong>右下角</strong>悬浮按钮）按类别将视频进行分类，可以点击相应的类别展开所有视频。目前视频和文本还在持续更新中，所以可能会看到 B 站有的视频这里没有，后续更新的话我会通过 B 站社区动态通知大家。如果大家觉得视频有帮助请一定给个三连加关注～感谢！</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ASTURIAS/1]]></title>
-            <link>https://onewhitethreee.github.io/ASTURIAS/1</link>
-            <guid>/ASTURIAS/1</guid>
-            <pubDate>Sat, 06 Aug 2022 20:14:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CANTABRIA/1]]></title>
-            <link>https://onewhitethreee.github.io/CANTABRIA/1</link>
-            <guid>/CANTABRIA/1</guid>
-            <pubDate>Sat, 06 Aug 2022 20:14:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CASTILLA LA MANCHA/1]]></title>
-            <link>https://onewhitethreee.github.io/CASTILLA LA MANCHA/1</link>
-            <guid>/CASTILLA LA MANCHA/1</guid>
-            <pubDate>Sat, 06 Aug 2022 20:14:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CASTILLA Y LEÓN/1]]></title>
-            <link>https://onewhitethreee.github.io/CASTILLA Y LEÓN/1</link>
-            <guid>/CASTILLA Y LEÓN/1</guid>
-            <pubDate>Sat, 06 Aug 2022 20:14:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CATALUÑA/1]]></title>
-            <link>https://onewhitethreee.github.io/CATALUÑA/1</link>
-            <guid>/CATALUÑA/1</guid>
-            <pubDate>Sat, 06 Aug 2022 20:14:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COMUNIDAD VALENCIANA/1]]></title>
-            <link>https://onewhitethreee.github.io/COMUNIDAD VALENCIANA/1</link>
-            <guid>/COMUNIDAD VALENCIANA/1</guid>
-            <pubDate>Sat, 06 Aug 2022 20:14:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EXTREMADURA/1]]></title>
-            <link>https://onewhitethreee.github.io/EXTREMADURA/1</link>
-            <guid>/EXTREMADURA/1</guid>
-            <pubDate>Sat, 06 Aug 2022 20:14:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GALICIA/1]]></title>
-            <link>https://onewhitethreee.github.io/GALICIA/1</link>
-            <guid>/GALICIA/1</guid>
-            <pubDate>Sat, 06 Aug 2022 20:14:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ISLAS BALEARES/1]]></title>
-            <link>https://onewhitethreee.github.io/ISLAS BALEARES/1</link>
-            <guid>/ISLAS BALEARES/1</guid>
-            <pubDate>Sat, 06 Aug 2022 20:14:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ISLAS CANARIAS/1]]></title>
-            <link>https://onewhitethreee.github.io/ISLAS CANARIAS/1</link>
-            <guid>/ISLAS CANARIAS/1</guid>
-            <pubDate>Sat, 06 Aug 2022 20:14:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LA RIOJA/1]]></title>
-            <link>https://onewhitethreee.github.io/LA RIOJA/1</link>
-            <guid>/LA RIOJA/1</guid>
-            <pubDate>Sat, 06 Aug 2022 20:14:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MADRID/1]]></title>
-            <link>https://onewhitethreee.github.io/MADRID/1</link>
-            <guid>/MADRID/1</guid>
-            <pubDate>Sat, 06 Aug 2022 20:14:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MURCIA/1]]></title>
-            <link>https://onewhitethreee.github.io/MURCIA/1</link>
-            <guid>/MURCIA/1</guid>
-            <pubDate>Sat, 06 Aug 2022 20:14:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NAVARRA/1]]></title>
-            <link>https://onewhitethreee.github.io/NAVARRA/1</link>
-            <guid>/NAVARRA/1</guid>
-            <pubDate>Sat, 06 Aug 2022 20:14:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PAÍS VASCO/1]]></title>
-            <link>https://onewhitethreee.github.io/PAÍS VASCO/1</link>
-            <guid>/PAÍS VASCO/1</guid>
-            <pubDate>Sat, 06 Aug 2022 20:14:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[contactar/1]]></title>
-            <link>https://onewhitethreee.github.io/contactar/1</link>
-            <guid>/contactar/1</guid>
-            <pubDate>Sat, 06 Aug 2022 20:14:42 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[2022年暑期规划]]></title>
             <link>https://onewhitethreee.github.io/2022-summer-planning</link>
