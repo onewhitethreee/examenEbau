@@ -13,8 +13,6 @@ Así mismo, los estudiantes de Bachillerato con una asignatura suspensa podrán 
 
 También hemos podido conocer que el Gobierno planea renovar, en un plazo de dos años, el modelo actual de Selectividad con el objetivo de crear una prueba de carácter más homogénea y con contenido común para todo el territorio nacional, cuya implementación podría situarse en el curso 23-24.
 
-![](https:img.onehu.xyz/img/14867357612210.jpg)![](https//:img.onehu.xyz/img/photo_2022-08-09_23-38-24.jpg)![](https//:img.onehu.xyz/img/photo_2022-08-09_23-38-24.jpg)![](https://raw.githubusercontent.com/onewhitethreee/imgexamen/main/img/photo_2022-08-09_23-38-25.jpg?token=AJGH5PDAQZE4ZNXS7GJTBWLC7U6XM)![](https:img.onehu.xyz/img/14867357612210.jpg)
-
 <img src="https://img.examenebau.com/img/imagen-archivo-examen-facultad_98.jpg"/>
 
 
@@ -62,8 +60,6 @@ Andalucía ha desvelado que la convocatoria ordinaria de la PEvAU tendrá lugar 
 
 La Universidad de Extremadura celebrará las pruebas de la EBAU del 7 al 9 de junio en su convocatoria ordinaria, y entre el 5 al 7 de julio su convocatoria extraordinaria. Se calcula que un total de 5.000 estudiantes extremeños se presentarán a estas pruebas. En este vídeo de la Universidad de Extremadura puedes conocer cómo serán los exámenes en esta comunidad autónoma.
 
-
-<img src="https://img.examenebau.com/img/ebau-murcia1-kpMC-U170331516914LjG-624x385@La%20Verdad.jpg"/>
 
 
 ## Ceuta, Melilla y Canarias
