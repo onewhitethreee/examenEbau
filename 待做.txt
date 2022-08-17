@@ -1,0 +1,11 @@
+已完成添加algoria
+还未完成adsence
+已添加google analytys
+网站有侧边栏，需要在sidebar.js 里开启，左边的是sidebar里的，右边的是md里的
+body {
+  font-family:  "Microsoft YaHei" ! important;
+}#字体设置
+
+* {
+  word-break: break-word;/*断行*/
+}

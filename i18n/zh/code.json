@@ -1,0 +1,349 @@
+{
+  "playground.codesandbox.description": {
+    "message": "CodeSandbox is a popular playground solution. Runs Docusaurus in a remote Docker container."
+  },
+  "playground.stackblitz.description": {
+    "message": "StackBlitz uses a novel {webContainersLink} technology to run Docusaurus directly in your browser."
+  },
+  "playground.tryItButton": {
+    "message": "Try it now!"
+  },
+  "Hello! 我是": {
+    "message": "examen",
+    "description": "hero greet"
+  },
+  "愧怍": {
+    "message": "EBAU",
+    "description": "my name"
+  },
+  "homepage.hero.text": {
+    "message": "EXÁMENES EVALUACIÓN DE BACHILLERATO PARA EL ACCESO A LA UNIVER-SIDAD (encontrar facilmente todas examenes de ebau de todas comunidades)",
+    "description": "hero text"
+  },
+  "阅读全文": {
+    "message": "leer todo",
+    "description": "read full text"
+  },
+  "theme.tags.tagsPageTitle": {
+    "message": "etiqueta",
+    "description": "The title of the tag list page"
+  },
+  "blogtagpage.title": {
+    "message": "blog de ",
+    "description": "blog tag page title"
+  },
+  "blogtagpage.title.alt": {
+    "message": "",
+    "description": "blog tag page title in alternate order"
+  },
+  "blogtagpage.description": {
+    "message": "etiqueta de blog",
+    "description": "blog tag page description"
+  },
+  "blogtagpage.count.label": {
+    "message": "sobre",
+    "description": "blog page count label"
+  },
+  "blogtagpage.seeall.label": {
+    "message": "mirar todas etiqueta",
+    "description": "blog page see all label"
+  },
+  "theme.ErrorPageContent.title": {
+    "message": "ha producido un error",
+    "description": "The title of the fallback page when the page crashed"
+  },
+  "theme.ErrorPageContent.tryAgain": {
+    "message": "rehacer",
+    "description": "The label of the button to try again when the page crashed"
+  },
+  "theme.NotFound.title": {
+    "message": "esta pagina ha sido desaparecido~",
+    "description": "The title of the 404 page"
+  },
+  "theme.NotFound.p1": {
+    "message": "no es posible encontrar la pagina",
+    "description": "The first paragraph of the 404 page"
+  },
+  "theme.NotFound.p2": {
+    "message": "un bug?😴",
+    "description": "The 2nd paragraph of the 404 page"
+  },
+  "theme.AnnouncementBar.closeButtonAriaLabel": {
+    "message": "cerrar",
+    "description": "The ARIA label for close button of announcement bar"
+  },
+  "theme.blog.archive.title": {
+    "message": "historia de blog",
+    "description": "The page & hero title of the blog archive page"
+  },
+  "theme.blog.archive.description": {
+    "message": "historia de blog",
+    "description": "The page & hero description of the blog archive page"
+  },
+  "theme.BackToTopButton.buttonAriaLabel": {
+    "message": "volver al principio",
+    "description": "The ARIA label for the back to top button"
+  },
+  "theme.blog.paginator.navAriaLabel": {
+    "message": "indice",
+    "description": "The ARIA label for the blog pagination"
+  },
+  "theme.blog.paginator.newerEntries": {
+    "message": "atras",
+    "description": "The label used to navigate to the newer blog posts page (previous page)"
+  },
+  "theme.blog.paginator.olderEntries": {
+    "message": "siguiente",
+    "description": "The label used to navigate to the older blog posts page (next page)"
+  },
+  "theme.blog.post.readingTime.plurals": {
+    "message": "{readingTime} minuto para leer",
+    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.blog.post.readMoreLabel": {
+    "message": "leer {title} todo",
+    "description": "The ARIA label for the link to full blog posts from excerpts"
+  },
+  "theme.blog.post.readMore": {
+    "message": "leer",
+    "description": "The label used in blog post item excerpts to link to full blog posts"
+  },
+  "theme.blog.post.paginator.navAriaLabel": {
+    "message": "blog indice",
+    "description": "The ARIA label for the blog posts pagination"
+  },
+  "theme.blog.post.paginator.newerPost": {
+    "message": "atras",
+    "description": "The blog post button label to navigate to the newer/previous post"
+  },
+  "theme.blog.post.paginator.olderPost": {
+    "message": "siguiente",
+    "description": "The blog post button label to navigate to the older/next post"
+  },
+  "theme.blog.sidebar.navAriaLabel": {
+    "message": "blog reciente actualizado",
+    "description": "The ARIA label for recent posts in the blog sidebar"
+  },
+  "theme.blog.post.plurals": {
+    "message": "{count} blog",
+    "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.blog.tagTitle": {
+    "message": "{nPosts} encontrado con etiqueta「{tagName}」",
+    "description": "The title of the page for a blog tag"
+  },
+  "theme.tags.tagsPageLink": {
+    "message": "mirar todas etiqueta",
+    "description": "The label of the link targeting the tag list page"
+  },
+  "theme.colorToggle.ariaLabel": {
+    "message": "cambiar de dia a noche（ahora es de {mode}）",
+    "description": "The ARIA label for the navbar color mode toggle"
+  },
+  "theme.colorToggle.ariaLabel.mode.dark": {
+    "message": "noche",
+    "description": "The name for the dark color mode"
+  },
+  "theme.colorToggle.ariaLabel.mode.light": {
+    "message": "dia",
+    "description": "The name for the light color mode"
+  },
+  "theme.docs.DocCard.categoryDescription": {
+    "message": "{count} projecto",
+    "description": "The default description for a category card in the generated index about how many items this category includes"
+  },
+  "theme.docs.sidebar.expandButtonTitle": {
+    "message": "abrir",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.docs.sidebar.expandButtonAriaLabel": {
+    "message": "abrir",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.docs.paginator.navAriaLabel": {
+    "message": "indice de documento",
+    "description": "The ARIA label for the docs pagination"
+  },
+  "theme.docs.paginator.previous": {
+    "message": "anterior",
+    "description": "The label used to navigate to the previous doc"
+  },
+  "theme.docs.paginator.next": {
+    "message": "siguiente",
+    "description": "The label used to navigate to the next doc"
+  },
+  "theme.DocSidebarItem.toggleCollapsedCategoryAriaLabel": {
+    "message": "abrir/cerrar「{label}」",
+    "description": "The ARIA label to toggle the collapsible sidebar category"
+  },
+  "theme.docs.tagDocListPageTitle.nDocsTagged": {
+    "message": "{count} documento con etiqueta",
+    "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.docs.tagDocListPageTitle": {
+    "message": "{nDocsTagged}「{tagName}」",
+    "description": "The title of the page for a docs tag"
+  },
+  "theme.docs.versionBadge.label": {
+    "message": "version：{versionLabel}"
+  },
+  "theme.docs.versions.unreleasedVersionLabel": {
+    "message": "此为 {siteTitle} {versionLabel} 版尚未发行的文档。",
+    "description": "The label used to tell the user that he's browsing an unreleased doc version"
+  },
+  "theme.docs.versions.unmaintainedVersionLabel": {
+    "message": "此为 {siteTitle} {versionLabel} 版的文档，现已不再积极维护。",
+    "description": "The label used to tell the user that he's browsing an unmaintained doc version"
+  },
+  "theme.docs.versions.latestVersionSuggestionLabel": {
+    "message": "最新的文档请参阅 {latestVersionLink} ({versionLabel})。",
+    "description": "The label used to tell the user to check the latest version"
+  },
+  "theme.docs.versions.latestVersionLinkLabel": {
+    "message": "version",
+    "description": "The label used for the latest version suggestion link label"
+  },
+  "theme.common.editThisPage": {
+    "message": "editar esta pagina",
+    "description": "The link label to edit the current page"
+  },
+  "theme.common.headingLinkTitle": {
+    "message": "enlace",
+    "description": "Title for link to heading"
+  },
+  "theme.lastUpdated.atDate": {
+    "message": "en {date} ",
+    "description": "The words used to describe on which date a page has been last updated"
+  },
+  "theme.lastUpdated.byUser": {
+    "message": "en {user} ",
+    "description": "The words used to describe by who the page has been last updated"
+  },
+  "theme.lastUpdated.lastUpdatedAtBy": {
+    "message": "en{byUser}{atDate}actualizado",
+    "description": "The sentence used to display when a page has been last updated, and by who"
+  },
+  "theme.navbar.mobileVersionsDropdown.label": {
+    "message": "elegir version",
+    "description": "The label for the navbar versions dropdown on mobile view"
+  },
+  "theme.common.skipToMainContent": {
+    "message": "saltar a ",
+    "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
+  },
+  "theme.tags.tagsListLabel": {
+    "message": "etiqueta：",
+    "description": "The label alongside a tag list"
+  },
+  "theme.TOCCollapsible.toggleButtonLabel": {
+    "message": "preview",
+    "description": "The label used by the button on the collapsible TOC component"
+  },
+  "theme.CodeBlock.copied": {
+    "message": "copiado correctamente",
+    "description": "The copied button label on code blocks"
+  },
+  "theme.CodeBlock.copyButtonAriaLabel": {
+    "message": "copiar",
+    "description": "The ARIA label for copy code blocks button"
+  },
+  "theme.CodeBlock.copy": {
+    "message": "copiar",
+    "description": "The copy button label on code blocks"
+  },
+  "theme.navbar.mobileLanguageDropdown.label": {
+    "message": "elegir lengauje",
+    "description": "The label for the mobile language switcher dropdown"
+  },
+  "theme.docs.sidebar.collapseButtonTitle": {
+    "message": "cerrar",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.collapseButtonAriaLabel": {
+    "message": "cerrar",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
+    "message": "← volver a ",
+    "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
+  },
+  "theme.SearchBar.seeAll": {
+    "message": "mirar {count} resultado"
+  },
+  "theme.SearchBar.label": {
+    "message": "buscar",
+    "description": "The ARIA label and placeholder for search button"
+  },
+  "theme.SearchPage.documentsFound.plurals": {
+    "message": "encontrado {count} archivo",
+    "description": "Pluralized label for \"{count} documents found\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.SearchPage.existingResultsTitle": {
+    "message": "「{query}」resultado",
+    "description": "The search page title for non-empty query"
+  },
+  "theme.SearchPage.emptyResultsTitle": {
+    "message": "buscar desde documento",
+    "description": "The search page title for empty query"
+  },
+  "theme.SearchPage.inputPlaceholder": {
+    "message": "introduce la palabra que busca",
+    "description": "The placeholder for search page input"
+  },
+  "theme.SearchPage.inputLabel": {
+    "message": "buscar",
+    "description": "The ARIA label for search page input"
+  },
+  "theme.SearchPage.algoliaLabel": {
+    "message": "buscar by Algolia ",
+    "description": "The ARIA label for Algolia mention"
+  },
+  "theme.SearchPage.noResultsText": {
+    "message": "no ha encontrado nada",
+    "description": "The paragraph for empty search result"
+  },
+  "theme.SearchPage.fetchingNewResults": {
+    "message": "obteniendo el resultado...",
+    "description": "The paragraph for fetching new search results"
+  },
+  "theme.IdealImageMessage.loading": {
+    "message": "loading……",
+    "description": "When the full-scale image is loading"
+  },
+  "theme.IdealImageMessage.load": {
+    "message": "pinchar para ver{sizeMessage}",
+    "description": "To prompt users to load the full image. sizeMessage is a parenthesized size figure."
+  },
+  "theme.IdealImageMessage.offline": {
+    "message": "no tienes internet",
+    "description": "When the user is viewing an offline document"
+  },
+  "theme.IdealImageMessage.404error": {
+    "message": "no ha encontrado nada",
+    "description": "When the image is not found"
+  },
+  "theme.IdealImageMessage.error": {
+    "message": "ha producido un error",
+    "description": "When the image fails to load for unknown error"
+  },
+  "theme.PwaReloadPopup.info": {
+    "message": "",
+    "description": "The text for PWA reload popup"
+  },
+  "theme.PwaReloadPopup.refreshButtonText": {
+    "message": "reload",
+    "description": "The text for PWA reload button"
+  },
+  "theme.PwaReloadPopup.closeButtonAriaLabel": {
+    "message": "clouse",
+    "description": "The ARIA label for close button of PWA reload popup"
+  },
+  "theme.Playground.result": {
+    "message": "resultado",
+    "description": "The result label of the live codeblocks"
+  },
+  "theme.Playground.liveEditor": {
+    "message": "editor",
+    "description": "The live editor label of the live codeblocks"
+  }
+}
