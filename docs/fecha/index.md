@@ -13,7 +13,10 @@ Así mismo, los estudiantes de Bachillerato con una asignatura suspensa podrán 
 
 También hemos podido conocer que el Gobierno planea renovar, en un plazo de dos años, el modelo actual de Selectividad con el objetivo de crear una prueba de carácter más homogénea y con contenido común para todo el territorio nacional, cuya implementación podría situarse en el curso 23-24.
 
-![](https:img.onehu.xyz/img/imagen-archivo-examen-facultad_97.jpg)
+![](https:img.onehu.xyz/img/14867357612210.jpg)![](https//:img.onehu.xyz/img/photo_2022-08-09_23-38-24.jpg)![](https//:img.onehu.xyz/img/photo_2022-08-09_23-38-24.jpg)![](https://raw.githubusercontent.com/onewhitethreee/imgexamen/main/img/photo_2022-08-09_23-38-25.jpg?token=AJGH5PDAQZE4ZNXS7GJTBWLC7U6XM)![](https:img.onehu.xyz/img/14867357612210.jpg)
+
+<img src="https://img.examenebau.com/img/imagen-archivo-examen-facultad_98.jpg"/>
+
 
 ## Castilla y León
 
@@ -32,6 +35,10 @@ La Evaluación de Acceso a la Universidad (EAU), como se conoce a esta prueba en
 Los estudiantes riojanos serán los primeros del país en enfrentarse a la EBAU 2022, fijada para el 1, 2 y 3 de junio en convocatoria ordinaria. Aquellos que tengan que presentarse en la extraordinaria, deberán hacerlo del 4 al 6 de julio. En la convocatoria del año pasado, el 98,67% de los presentados lograron superarla, batiendo un récord histórico en la Comunidad.
 
 La convocatoria ordinaria de la Evaluación de Acceso a la Universidad (EvAU), antes conocida como Selectividad, se celebrará en Navarra los días 7, 8 y 9 de junio. Por su parte, los exámenes de la convocatoria extraordinaria serán los días 28, 29 y 30 del mismo mes.
+
+
+<img src="https://img.examenebau.com/img/cuando-ebau-selectividad_98.jpg"/>
+
 
 ## Madrid, Castilla-La Mancha y Aragón
 
@@ -55,10 +62,18 @@ Andalucía ha desvelado que la convocatoria ordinaria de la PEvAU tendrá lugar 
 
 La Universidad de Extremadura celebrará las pruebas de la EBAU del 7 al 9 de junio en su convocatoria ordinaria, y entre el 5 al 7 de julio su convocatoria extraordinaria. Se calcula que un total de 5.000 estudiantes extremeños se presentarán a estas pruebas. En este vídeo de la Universidad de Extremadura puedes conocer cómo serán los exámenes en esta comunidad autónoma.
 
+
+<img src="https://img.examenebau.com/img/ebau-murcia1-kpMC-U170331516914LjG-624x385@La%20Verdad.jpg"/>
+
+
 ## Ceuta, Melilla y Canarias
 
 El calendario de la Selectividad para Ceuta y Melilla es el mismo que para Andalucía, ya que el campus universitario de ambas ciudades pertenece a la Universidad de Granada . De esta forma, tanto los estudiantes ceutíes como los melillenses se examinarán de convocatoria ordinaria los días 14, 15 y 16 de junio, y los días 12, 13 y 14 de julio para la extraordinaria.
 
 En las Islas Canarias la selectividad se celebrará los días 8, 9 , 10 y 11 de junio, en convocatoria ordinaria, mientras que la extraordinaria está fijada para los días 6, 7 y 8 de julio. Por su parte, los alumnos afectados por el volcán de La Palma tendrás una EBAU con excepcionalidades, pudiendo elegir diferentes opciones en un 20% de los contenidos de las pruebas
+
+
+<img src="https://img.examenebau.com/img/HY2R47NLYBBJPDWQ2WCV5KNPJA.jpg"/>
+
 
 Por último, y para que vayas mejor preparado, no puedes perderte esta serie de trucos y consejos para preparar la EBAU. ¡Mucha suerte!
