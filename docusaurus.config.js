@@ -315,30 +315,6 @@ const config = {
         disableInDev: false,
       },
     ],
-    [
-      '@docusaurus/plugin-pwa',
-      {
-        debug: true,
-        offlineModeActivationStrategies: ['appInstalled', 'standalone', 'queryString'],
-        pwaHead: [
-          {
-            tagName: 'link',
-            rel: 'icon',
-            href: '/img/logo.png',
-          },
-          {
-            tagName: 'link',
-            rel: 'manifest',
-            href: '/manifest.json',
-          },
-          {
-            tagName: 'meta',
-            name: 'theme-color',
-            content: 'rgb(51 139 255)',
-          },
-        ],
-      },
-    ],
   ],
   stylesheets: [],
   i18n: {
