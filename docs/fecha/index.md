@@ -13,6 +13,8 @@ Así mismo, los estudiantes de Bachillerato con una asignatura suspensa podrán 
 
 También hemos podido conocer que el Gobierno planea renovar, en un plazo de dos años, el modelo actual de Selectividad con el objetivo de crear una prueba de carácter más homogénea y con contenido común para todo el territorio nacional, cuya implementación podría situarse en el curso 23-24.
 
+![](https:img.onehu.xyz/img/imagen-archivo-examen-facultad_97.jpg)
+
 ## Castilla y León
 
 La EBAU 2022 en Castilla y León tendrá lugar los próximos 8, 9 y 10 de junio para la convocatoria ordinaria y 6, 7 y 8 de julio para la extraordinaria.
