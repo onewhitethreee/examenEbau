@@ -10,7 +10,7 @@ const config = {
   titleDelimiter: '-',
   url: 'https://onewhitethreee.github.io',
   baseUrl: '/',
-  favicon: 'img/favicon(1).ico',
+  favicon: 'img/favicon.ico',
   organizationName: 'onewhitethreee',
   projectName: 'examenEbau',
 
