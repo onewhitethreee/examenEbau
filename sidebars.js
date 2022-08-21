@@ -1,9 +1,50 @@
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
+  //还差添加一个aragon
+  ASTURIAS: [
+    'ASTURIAS/examen-asturias',
+  ],
+  ANDALUCIA: [
+    'ANDALUCÍA/examen-andalucia',
+  ],
+  CANTABRIA: [
+    'CANTABRIA/examen-cantabria',
+  ],
+  CASTILLAlamancha: [
+    'CASTILLA LA MANCHA/examen-castilla-la-mancha',],
+  CASTILLAleon: [
+    'CASTILLA Y LEÓN/examen-castilla-y-leon',],
+  CATALUÑA: [
+    'CATALUÑA/examen-CATALUÑA'],
+  COMUNIDADVALENCIANA: [
+    'COMUNIDAD VALENCIANA/examen-valencia'
+  ],
+  EXTREMADURA: [
+    'EXTREMADURA/examen-extremadura'
+  ],
+  GALICIA: [
+    'GALICIA/examen-galicia'
+  ],
+  islabaleares: [
+    'ISLAS BALEARES/examen-islas-baleares'
+  ],
+  islascanarias: [
+    'ISLAS CANARIAS/examen-islas-canarias'
+  ],
+  RIOJA: [
+    'LA RIOJA/examen-la-rioja'],
+  MADRID: [
+    'MADRID/examen-madrid'],
+  murcia: [
+    'MURCIA/examen-murcia'],
+  navarra: [
+    'NAVARRA/examen-navarra'],
+  paisvasco: [
+    'PAÍS VASCO/examen-pais-vasco'],
   fecha: [
     'fecha/fecha-de-ebau',
   ],
-  contactar : [
+  contactar: [
     'contactar/contactar',
   ],
   skill: [

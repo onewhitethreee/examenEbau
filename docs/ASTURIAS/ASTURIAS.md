@@ -1,10 +1,10 @@
 ---
-id: examen-galicia
-title: examen ebau de galicia
-slug: /GALICIA/
-description: TODAS EXAMENES DE EBAU DE GALICIA
+id: examen-asturias
+title: examen ebau de ASTURIAS
+slug: /ASTURIAS/
+description: TODAS EXAMENES DE EBAU DE ASTURIAS
 keywords:
-  - galicia
+  - ASTURIAS
   - EXAMEN
   - EBAU
 ---
