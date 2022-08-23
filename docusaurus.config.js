@@ -39,7 +39,7 @@ const config = {
           position: "right",
         },
         {
-          label: "COMUNIDAD",
+          label: "EXAMEN POR COMUNIDAD",
           position: "right",
           items: [
             {
