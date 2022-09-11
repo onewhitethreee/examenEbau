@@ -296,7 +296,7 @@ const config = {
         editUrl: ({ locale, blogDirPath, blogPath, permalink }) =>
           `https://github.com/kuizuo/blog/edit/main/${blogDirPath}/${blogPath}`,
         editLocalizedFiles: false,
-        blogSidebarTitle: '近期文章',
+        blogSidebarTitle: 'Reciente',
         blogSidebarCount: 10,
         postsPerPage: 10,
         showReadingTime: true,
