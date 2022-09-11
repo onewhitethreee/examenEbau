@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[964],{28866:function(e){e.exports=JSON.parse('[{"label":"fisica","permalink":"/tags/fisica","count":1},{"label":"lente","permalink":"/tags/lente","count":1}]')}}]);
