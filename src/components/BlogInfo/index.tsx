@@ -32,15 +32,15 @@ export function BlogUser({ count, isNavbar = false }: { count?: Count; isNavbar?
 
   return (
     <div className={`row ${isNavbar ? 'bloginfo__card-navbar' : 'bloginfo__card'}`}>
-      <Link href='/about'>
+      <Link href='/'>
         <img className='bloginfo__img' src='/img/logo.webp' alt='logo'></img>
       </Link>
       <div>
         <Link className='bloginfo__name' href='about'>
-          愧怍
+          EXAMEN EBAU
         </Link>
       </div>
-      <div className='bloginfo__description'>不是巅峰时的信仰，而是黄昏时的追逐</div>
+      <div className='bloginfo__description'>SOLO TE FALTA UN POCO PARA LLEGAR EL PICO</div>
       <div className='bloginfo__num'>
         <Link className='bloginfo__num-item' href='/archive' data-tips='博客数'>
           <FontAwesomeIcon icon={faArchive as IconProp} /> {count.blog}

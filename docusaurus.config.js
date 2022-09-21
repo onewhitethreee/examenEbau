@@ -294,7 +294,7 @@ const config = {
         path: 'blog',
         routeBasePath: '/',
         editUrl: ({ locale, blogDirPath, blogPath, permalink }) =>
-          `https://github.com/kuizuo/blog/edit/main/${blogDirPath}/${blogPath}`,
+          `https://github.com/onewhitethreee/examenEbau/edit/main/${blogDirPath}/${blogPath}`,
         editLocalizedFiles: false,
         blogSidebarTitle: 'Reciente',
         blogSidebarCount: 10,
