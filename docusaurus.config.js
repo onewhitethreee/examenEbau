@@ -44,7 +44,7 @@ const config = {
           items: [
             {
               label: "ARAGÓN",
-              to: "docs/skill/",//MD文件里的slug标签是关键词
+              to: "docs/ARAGON/",//MD文件里的slug标签是关键词
             },
             {
               label: "ANDALUCÍA",

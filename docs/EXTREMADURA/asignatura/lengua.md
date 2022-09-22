@@ -1,0 +1,10 @@
+---
+slug: EXTREMADURA/lengua
+description: TODOS ENEXAMENS DE EBAU DE EXTREMADURA
+keywords:
+ - EXTREMADURA
+ - EXAMEN
+ - EBAU
+ - lengua
+---
+## EXAMEN EBAU DE LENGUA DE EXTREMADURA

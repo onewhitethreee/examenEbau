@@ -1,0 +1,10 @@
+---
+slug: CASTILLA LA MANCHA/historia de españa
+description: TODOS ENEXAMENS DE EBAU DE CASTILLA LA MANCHA
+keywords:
+ - CASTILLA LA MANCHA
+ - EXAMEN
+ - EBAU
+ - historia de españa
+---
+## EXAMEN EBAU DE HISTORIA DE ESPAÑA DE CASTILLA LA MANCHA

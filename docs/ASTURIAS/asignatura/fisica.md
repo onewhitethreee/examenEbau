@@ -1,0 +1,10 @@
+---
+slug: ASTURIAS/fisica
+description: TODOS ENEXAMENS DE EBAU DE ASTURIAS
+keywords:
+ - ASTURIAS
+ - EXAMEN
+ - EBAU
+ - fisica
+---
+## EXAMEN EBAU DE FISICA DE ASTURIAS

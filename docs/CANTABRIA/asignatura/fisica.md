@@ -1,0 +1,10 @@
+---
+slug: CANTABRIA/fisica
+description: TODOS ENEXAMENS DE EBAU DE CANTABRIA
+keywords:
+ - CANTABRIA
+ - EXAMEN
+ - EBAU
+ - fisica
+---
+## EXAMEN EBAU DE FISICA DE CANTABRIA

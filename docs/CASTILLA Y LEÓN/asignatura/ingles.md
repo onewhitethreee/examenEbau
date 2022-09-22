@@ -1,0 +1,10 @@
+---
+slug: CASTILLA Y LEÓN/ingles
+description: TODOS ENEXAMENS DE EBAU DE CASTILLA Y LEÓN
+keywords:
+ - CASTILLA Y LEÓN
+ - EXAMEN
+ - EBAU
+ - ingles
+---
+## EXAMEN EBAU DE INGLES DE CASTILLA Y LEÓN

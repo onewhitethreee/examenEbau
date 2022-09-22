@@ -1,0 +1,10 @@
+---
+slug: CASTILLA Y LEÓN/fisica
+description: TODOS ENEXAMENS DE EBAU DE CASTILLA Y LEÓN
+keywords:
+ - CASTILLA Y LEÓN
+ - EXAMEN
+ - EBAU
+ - fisica
+---
+## EXAMEN EBAU DE FISICA DE CASTILLA Y LEÓN
