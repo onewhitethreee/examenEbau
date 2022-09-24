@@ -42,17 +42,11 @@ export function BlogUser({ count, isNavbar = false }: { count?: Count; isNavbar?
       </div>
       <div className='bloginfo__description'>SOLO TE FALTA UN POCO PARA LLEGAR EL PICO</div>
       <div className='bloginfo__num'>
-        <Link className='bloginfo__num-item' href='/archive' data-tips='博客数'>
+        <Link className='bloginfo__num-item' href='/archive' data-tips='Blog'>
           <FontAwesomeIcon icon={faArchive as IconProp} /> {count.blog}
         </Link>
-        <Link className='bloginfo__num-item' href='/tags' data-tips='标签数'>
+        <Link className='bloginfo__num-item' href='/tags' data-tips='Etiqueta'>
           <FontAwesomeIcon icon={faTag as IconProp} style={{ transform: 'rotate(90deg)' }} /> {count.tag}
-        </Link>
-        <Link className='bloginfo__num-item' href='/docs/skill' data-tips='笔记数'>
-          <FontAwesomeIcon icon={faBook as IconProp} /> {count.doc}
-        </Link>
-        <Link className='bloginfo__num-item' href='/project' data-tips='项目数'>
-          <FontAwesomeIcon icon={faThLarge as IconProp} /> {count.project}
         </Link>
       </div>
       <SocialLinks
