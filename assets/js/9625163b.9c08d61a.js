@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[3148],{7216:function(a){a.exports=JSON.parse('{"label":"gravitacion","permalink":"/tags/gravitacion","allTagsPath":"/tags","count":1}')}}]);

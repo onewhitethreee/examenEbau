@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[2535],{5641:function(e){e.exports=JSON.parse('{"title":"Reciente","items":[{"title":"OPTICA GEOMETRICA DE LENTE","permalink":"/opticageometrica_lentes"}]}')}}]);
