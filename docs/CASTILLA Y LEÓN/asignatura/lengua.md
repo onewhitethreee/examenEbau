@@ -8,3 +8,4 @@ keywords:
  - lengua
 ---
 ## EXAMEN EBAU DE LENGUA DE CASTILLA Y LEÓN
+[Lengua](https://drive.google.com/drive/folders/10cVWgYCvREPLGNeFiEUmkx8E8ThNWybJ?usp=sharing)

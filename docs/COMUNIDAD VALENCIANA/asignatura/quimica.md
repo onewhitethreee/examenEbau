@@ -8,3 +8,4 @@ keywords:
  - quimica
 ---
 ## EXAMEN EBAU DE QUIMICA DE COMUNIDAD VALENCIANA
+[Quimica](https://drive.google.com/drive/folders/1cgx6ysJVokmlI_OaEkd4K_U-DpOkpOSI?usp=sharing)

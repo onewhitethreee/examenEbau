@@ -8,3 +8,4 @@ keywords:
  - quimica
 ---
 ## EXAMEN EBAU DE QUIMICA DE LA RIOJA
+[Quimica](https://drive.google.com/drive/folders/1ywH05Sz6MSUFAd9rASntEYb8RgtkWvH-?usp=sharing)

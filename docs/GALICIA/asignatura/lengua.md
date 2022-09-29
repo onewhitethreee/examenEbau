@@ -8,3 +8,4 @@ keywords:
  - lengua
 ---
 ## EXAMEN EBAU DE LENGUA DE GALICIA
+[Lengua](https://drive.google.com/drive/folders/12ksquxbkAnRwXoS_yNk-94OrdDswVWTn?usp=sharing)

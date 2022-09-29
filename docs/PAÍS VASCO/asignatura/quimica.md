@@ -8,3 +8,4 @@ keywords:
  - quimica
 ---
 ## EXAMEN EBAU DE QUIMICA DE PAÍS VASCO
+[Quimica](https://drive.google.com/drive/folders/1vCFXb9WqmHwHRUTRW1-a2JIJESmjbAyj?usp=sharing)

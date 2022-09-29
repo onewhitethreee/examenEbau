@@ -8,3 +8,4 @@ keywords:
  - fisica
 ---
 ## EXAMEN EBAU DE FISICA DE PAÍS VASCO
+[Fisica](https://drive.google.com/drive/folders/1yMRYctEzBpXXMOXfaByybKOblfSm9mDJ?usp=sharing)

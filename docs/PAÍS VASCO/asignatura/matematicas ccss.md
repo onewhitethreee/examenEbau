@@ -8,3 +8,4 @@ keywords:
  - matematicas ccss
 ---
 ## EXAMEN EBAU DE MATEMATICAS CCSS DE PAÍS VASCO
+[Mate](https://drive.google.com/drive/folders/1D-tHjSiXDHuupEgD18awRR3kZuKS61pn?usp=sharing)

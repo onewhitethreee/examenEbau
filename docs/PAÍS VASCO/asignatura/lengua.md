@@ -8,3 +8,4 @@ keywords:
  - lengua
 ---
 ## EXAMEN EBAU DE LENGUA DE PAÍS VASCO
+[Lengua](https://drive.google.com/drive/folders/1fJ6fub2Sw3uEn-b-TV0MGXbAIcMo3GGm?usp=sharing)

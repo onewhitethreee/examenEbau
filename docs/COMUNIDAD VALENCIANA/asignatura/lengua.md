@@ -8,3 +8,4 @@ keywords:
  - lengua
 ---
 ## EXAMEN EBAU DE LENGUA DE COMUNIDAD VALENCIANA
+[Lengua](https://drive.google.com/drive/folders/1iuTiyy4AjW6LNNMraxcQ0G-l6QpshP-N?usp=sharing)

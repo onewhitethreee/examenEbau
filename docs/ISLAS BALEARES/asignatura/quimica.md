@@ -8,3 +8,4 @@ keywords:
  - quimica
 ---
 ## EXAMEN EBAU DE QUIMICA DE ISLAS BALEARES
+[Quimica](https://drive.google.com/drive/folders/1V9fZhfVlQbz7XVY7sS8ArrQfTeBrmBM1?usp=sharings)

@@ -8,3 +8,4 @@ keywords:
  - fisica
 ---
 ## EXAMEN EBAU DE FISICA DE GALICIA
+[Fisica](https://drive.google.com/drive/folders/1VY9OKAN71GUJFTWKqlfQkUwGVldFzx-K?usp=sharing)
