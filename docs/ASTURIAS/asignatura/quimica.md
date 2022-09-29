@@ -8,3 +8,4 @@ keywords:
  - quimica
 ---
 ## EXAMEN EBAU DE QUIMICA DE ASTURIAS
+[Quimica](https://drive.google.com/drive/folders/1haofowzo24651Nda_hYCnf0uvLSLm6Kc?usp=sharing)

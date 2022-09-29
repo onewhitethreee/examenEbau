@@ -8,3 +8,4 @@ keywords:
  - lengua
 ---
 ## EXAMEN EBAU DE LENGUA DE ASTURIAS
+[Lengua Castellana](https://drive.google.com/drive/folders/1haofowzo24651Nda_hYCnf0uvLSLm6Kc?usp=sharing)
