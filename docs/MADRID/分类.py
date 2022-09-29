@@ -1,10 +1,10 @@
 import os
 
 def main():
-    for root, dirs, files in os.walk('MADRID/asignatura/'):
+    for root, dirs, files in os.walk('docs/MADRID/asignatura/'):
         #print(files)
         for filess in files:
-            with open('MADRID/asignatura/'+filess, 'w+', encoding='utf-8') as f:
+            with open('docs/MADRID/asignatura/'+filess, 'w+', encoding='utf-8') as f:
                 f.write('---\n')
                 f.write('slug: ' + 'MADRID/' + filess.split('.')[0]+'\n')
                 f.write('description: TODOS ENEXAMENS DE EBAU DE MADRID'+'\n')
